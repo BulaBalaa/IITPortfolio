@@ -19,7 +19,9 @@ h2, p {
   overflow: hidden;
   background-color: #333;
 }
-
+.profilkep {
+  display:none;
+}
 .navbar a {
   float: left;
   font-size: 16px;
